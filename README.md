@@ -1,5 +1,5 @@
 # Py-Basics (Python 3)
-<img align="middle" alt="Python Basics" width="100px" src="icon\python-original.svg" />
+<img align="middle" alt="Python Basics" width="100px" src="https://github.com/PhilippPR/py-basics/blob/main/python-original.svg" />
 
 
 ### Python Basics
